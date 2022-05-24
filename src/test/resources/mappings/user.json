@@ -1,0 +1,14 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/user/1"
+    },
+    "response": {
+        "status": 200,
+        "body":"{\"id\":1,\"name\":\"UserOne\"}",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}
+

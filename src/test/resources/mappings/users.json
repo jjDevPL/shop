@@ -1,0 +1,14 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/users"
+    },
+    "response": {
+        "status": 200,
+        "body":"[{\"id\":1,\"name\":\"pierwszy\"},{\"id\":2,\"name\":\"drugi\"}]",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}
+
